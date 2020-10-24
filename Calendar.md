@@ -1,5 +1,5 @@
-# DM-UY 1133-B Creative Coding
-##### Fall 2020 • Katherine Bennett • Monday & Wednesdays • 4:00-5:50pm 
+# DM-UY 1133-B Creative Coding Calendar
+##### Fall 2020 • Katherine Bennett • Monday & Wednesdays • 4:00-5:50 pm 
 
 ## CALENDAR Overview | Click a week to get the homework assignments and weekly detail
 ### Calendar & Weekly Detail is subject to change at any time. Check back regularly.
@@ -14,7 +14,7 @@
 <tr>
 	<td valign="top"><a href="week_1_detail.md">1</a></td>
 	<td valign="top"><a href="week_1_detail.md">Sept 2</a><br><strong>Course and Student Introductions<br>Overview of Course<br>In-Class Challenge</strong></td>
-	<td valign="top"><a href="week_1_detail.md">Sept 9</a><br><strong>Introduction to Processing <br>Graphic basics + Variables<br></strong></td>
+	<td valign="top"><a href="week_1_detail.md">Sept 9</a><br><strong>Introduction to Processing <br>Graphic basics + Variables<br></strong><strong> </strong></td>
 </tr>
 <tr>
 	<td valign="top"> 2 </td>
@@ -58,15 +58,14 @@
 </tr>
 <tr>
 	<td> 7 </td>
-	<td valign="top"><a href="week_7_detail.md">Oct 19</a><br><strong> **MidTerm** <br>Project 1 Presentations <br></strong>
-	</td>
-	<td valign = "top"> <a href="week_7_detail.md">Oct 21</a><br><strong>**MidTerm** <br>Project 1 Presentations <br>
-	</strong>
-	</td>
+	<td valign="top"><a href="week_7_detail.md">Oct 19</a><br><strong> Vectors + Forces<br></strong>	</td>
+	<td valign = "top"> <a href="week_7_detail.md">Oct 21</a><br><strong>Vectors + Steering <br> Images (introduction)<br>In-class Challenge <br></strong></td>
 </tr>
 <td>8</td>
-	<td valign="top"><a href="week_8_detail.md">Oct 26</a><br><strong>Vectors + Forces<br>Show & Tell <br></strong>	</td>
-	<td valign="top"><a href="week_8_detail.md">Oct 28</a><br><strong>Vectors + Steering <br> Images (introduction)<br>In-class Challenge <br></strong>
+	<td valign="top"><a href="week_8_detail.md">Oct 26</a><br><strong>**MidTerm** <br>Project 1 Presentations <br></strong>
+	</td>
+	<td valign="top"><a href="week_8_detail.md">Oct 28</a><br><strong>**MidTerm** <br>Project 1 Presentations <br>
+	</strong>
 	</td>
 </tr>
 <tr>
